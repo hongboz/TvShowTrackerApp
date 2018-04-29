@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "735029808344",
+    "firebase_url": "https://project-ethereal.firebaseio.com",
+    "project_id": "project-ethereal",
+    "storage_bucket": "project-ethereal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735029808344:android:75534579561007b3",
+        "android_client_info": {
+          "package_name": "com.hongbo.projectethereal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735029808344-7g0odhuqv3plgr8fo5ckhu7e8n9n6n8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClOT52HLqyjBlxbjg8vvmB_n2OETKHUqs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735029808344-7g0odhuqv3plgr8fo5ckhu7e8n9n6n8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
